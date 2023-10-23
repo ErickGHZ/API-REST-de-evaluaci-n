@@ -1,0 +1,3 @@
+id_contacto,nombre,primer_apellido,segundo_apellido,email,telefono
+1,John,Doe,Smith,johndoe@example.com,555-555-5555
+2,Jane,Smith,Johnson,janesmith@example.com,555-555-5556
